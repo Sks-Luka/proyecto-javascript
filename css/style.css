@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+header {
+  background-color: red; }
+
+h1 {
+  display: inline;
+  padding-top: 5rem; }
